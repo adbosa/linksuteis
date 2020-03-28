@@ -3,22 +3,21 @@ Alguns links úteis para Desenvolvedores Web
 
 |Índice|
 |------|
-
-- [Cores (Paleta de cores)](#Cores)
-- [Emuladores](#Emuladores)
-- [Ferramentas](#Ferramentas)
-- [Fontes](#Fontes)
-- [Freebies](#Freebies)
-- [Inspirações](#Inspirações)
-- [Imagens](#Imagens)
-- [Performance](#Performance)
-- [Plugins](#Plugins)
-- [Referências](#Referências)
-- [Mais listas](#Mais-listas)
+ 🎨 [Cores (Paleta de cores)](#Cores) 
+ 📱 [Emuladores](#Emuladores) 
+ 🛠️ [Ferramentas](#Ferramentas)
+ 🗚 [Fontes](#Fontes)
+ 💸 [Freebies](#Freebies)
+ 🎭 [Inspirações](#Inspirações)
+ 📸 [Imagens](#Imagens)
+ 📈 [Performance](#Performance)
+ 🔌 [Plugins](#Plugins)
+ 📚 [Referências](#Referências)
+ ➕ [Mais listas](#Mais-listas)
 
 
     
-## Cores
+## Cores 🎨
 
 http://flatcolors.net/    
 http://flatuicolors.com/   
@@ -35,7 +34,7 @@ http://www.webpagefx.com/web-design/hex-to-rgb/
 http://getuicolors.com/   
 http://uigradients.com/   
 
-## Emuladores
+## Emuladores 📱
 http://www.responsimulator.com/   
 http://www.viewportemulator.com/   
 http://quirktools.com/screenfly/   
@@ -43,7 +42,7 @@ http://iphone4simulator.com/
 http://iphone5simulator.com/   
 http://thiagocanudo.com.br/responsa/   
 
-## Ferramentas
+## Ferramentas 🛠️
 http://howtocenterincss.com/   
 http://www.copypastecharacter.com/   
 http://officeipsum.com/index.php   
@@ -78,7 +77,7 @@ http://www.uiparade.com/
 https://www.bootstrapzero.com/   
 http://www.calltoidea.com/   
 
-## Imagens
+## Imagens 📸
 http://allfreephotos.net/   
 https://www.pexels.com/   
 https://visualhunt.com/   
@@ -86,7 +85,7 @@ http://www.freeimages.com/
 https://unsplash.com/   
 https://stocksnap.io/   
 
-## Referências
+## Referências 📚
 http://webfatorial.github.io/grid/   
 http://www.w3schools.com/   
 https://developer.mozilla.org/pt-BR/   
@@ -95,7 +94,7 @@ https://codex.wordpress.org/
 https://github.com/lipis/awesome-style-guides   
 https://tympanus.net/codrops/   
 
-## Freebies
+## Freebies 💸 
 https://resourcecards.com/   
 http://freebbble.com/   
 http://allthefreestock.com/   
@@ -111,7 +110,7 @@ http://www.pixeden.com/free-design-web-resources
 http://www.teehanlax.com/tools/   
 http://techandall.com/   
 
-## Fontes
+## Fontes 🗚
 http://www.fontspace.com/   
 http://www.dafont.com/pt/   
 https://www.behance.net/collection/4860923/Free-Fonts   
@@ -120,7 +119,7 @@ https://fonts.google.com/
 http://fontawesome.io/   
 http://freetypography.com/   
 
-## Plugins
+## Plugins 🔌
 http://www.unheap.com/   
 https://designmodo.com/free-jquery-plugins-2016/   
 http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/   
@@ -133,10 +132,10 @@ http://imagesloaded.desandro.com/
 https://github.com/sebarmeli/JAIL   
 http://kenwheeler.github.io/slick/   
 
-## Performance
+## Performance 📈 
 https://browserdiet.com/pt   
 
-## Mais listas
+## Mais listas ➕...
 https://github.com/santosluiz/Txt-da-Vida   
 https://github.com/leocavalcante/my-awesome-frontend   
 https://medium.com/brasil/trezentas-coisas-gratuitas-e-sensacionais-para-empreendedores-e-startups-4d054afd6395#.8adzvb2mh   
