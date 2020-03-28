@@ -18,7 +18,7 @@ Alguns links úteis para Desenvolvedores Web
 
 
     
-## Cores (Color pickers)
+## Cores
 
 http://flatcolors.net/    
 http://flatuicolors.com/   
