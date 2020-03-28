@@ -18,7 +18,8 @@ Alguns links úteis para Desenvolvedores Web
 
 
     
-# Cores
+## Cores
+Color picks em geral   
 http://flatcolors.net/    
 http://flatuicolors.com/   
 http://www.flatuicolorpicker.com/   
@@ -58,7 +59,6 @@ https://www.webpagetest.org/
 https://tinypng.com/   
 
 ## Inspirações
-
 https://www.thebestdesigns.com/   
 https://w3layouts.com/   
 http://www.awwwards.com/   
