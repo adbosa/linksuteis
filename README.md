@@ -4,9 +4,9 @@ Alguns links úteis para Desenvolvedores Web
 |Índice|
 |------|
 
-- [Cores](Cores)
-- [Emuladores](Emuladores)
-- [Ferramentas](Ferramentas)
+- [Cores](cores)
+- [Emuladores](#Emuladores)
+- [Ferramentas](#ferramentas)
 - [Fontes](Fontes)
 - [Freebies](Freebies)
 - [Inspirações](Inspirações)
