@@ -4,7 +4,7 @@ Alguns links úteis para Desenvolvedores Web
 |Índice|
 |------|
 
-- [Cores](#Cores)
+- [Cores (Paleta de cores)](#Cores)
 - [Emuladores](#Emuladores)
 - [Ferramentas](#Ferramentas)
 - [Fontes](#Fontes)
@@ -18,8 +18,8 @@ Alguns links úteis para Desenvolvedores Web
 
 
     
-## Cores
-Color picks em geral   
+## Cores (Color pickers)
+
 http://flatcolors.net/    
 http://flatuicolors.com/   
 http://www.flatuicolorpicker.com/   
