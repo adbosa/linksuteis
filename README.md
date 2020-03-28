@@ -3,17 +3,17 @@ Alguns links úteis para Desenvolvedores Web
 
 |Índice|
 |------|
- 🎨 [Cores (Paleta de cores)](#Cores) 
- 📱 [Emuladores](#Emuladores) 
- 🛠️ [Ferramentas](#Ferramentas)
- 🗚 [Fontes](#Fontes)
- 💸 [Freebies](#Freebies)
- 🎭 [Inspirações](#Inspirações)
- 📸 [Imagens](#Imagens)
- 📈 [Performance](#Performance)
- 🔌 [Plugins](#Plugins)
- 📚 [Referências](#Referências)
- ➕ [Mais listas](#Mais-listas)
+ 🎨 [Cores (Paleta de cores)](#Cores-) 
+ 📱 [Emuladores](#Emuladores-) 
+ 🛠️ [Ferramentas](#Ferramentas-)
+ 🗚 [Fontes](#Fontes-)
+ 💸 [Freebies](#Freebies-)
+ 🎭 [Inspirações](#Inspirações-)
+ 📸 [Imagens](#Imagens-)
+ 📈 [Performance](#Performance-)
+ 🔌 [Plugins](#Plugins-)
+ 📚 [Referências](#Referências-)
+ ➕ [Mais listas](#Mais-listas-)
 
 
     
@@ -57,7 +57,7 @@ http://yellowlab.tools/
 https://www.webpagetest.org/   
 https://tinypng.com/   
 
-## Inspirações
+## Inspirações 🎭
 https://www.thebestdesigns.com/   
 https://w3layouts.com/   
 http://www.awwwards.com/   
