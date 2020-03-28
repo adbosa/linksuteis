@@ -4,17 +4,17 @@ Alguns links úteis para Desenvolvedores Web
 |Índice|
 |------|
 
-- [Cores](cores)
+- [Cores](#Cores)
 - [Emuladores](#Emuladores)
-- [Ferramentas](#ferramentas)
-- [Fontes](Fontes)
-- [Freebies](Freebies)
-- [Inspirações](Inspirações)
-- [Imagens](Imagens)
-- [Performance](Performance)
-- [Plugins](Plugins)
-- [Referências](Referências)
-- [Mais listas](Mais-listas)
+- [Ferramentas](#Ferramentas)
+- [Fontes](#Fontes)
+- [Freebies](#Freebies)
+- [Inspirações](#Inspirações)
+- [Imagens](#Imagens)
+- [Performance](#Performance)
+- [Plugins](#Plugins)
+- [Referências](#Referências)
+- [Mais listas](#Mais-listas)
 
 
     
