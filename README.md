@@ -5,7 +5,7 @@ Alguns links úteis para Desenvolvedores Web
 |------|
  🎨 [Cores (Paleta de cores)](#Cores-) 
  📱 [Emuladores](#Emuladores-) 
- 🛠️ [Ferramentas](#Ferramentas-)
+ 🛠️ [Ferramentas](#ferramentas-%EF%B8%8F)
  🗚 [Fontes](#Fontes-)
  💸 [Freebies](#Freebies-)
  🎭 [Inspirações](#Inspirações-)
