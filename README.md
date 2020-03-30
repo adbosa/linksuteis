@@ -5,11 +5,12 @@ Alguns links úteis para Desenvolvedores Web
 |------|
  🎨 [Cores (Paleta de cores)](#Cores-) 
  📱 [Emuladores](#Emuladores-) 
- 🛠️ [Ferramentas](#ferramentas-%EF%B8%8F)
+ 🛠️ [Ferramentas](#ferramentas-)
  🗚 [Fontes](#Fontes-)
  💸 [Freebies](#Freebies-)
  🎭 [Inspirações](#Inspirações-)
  📸 [Imagens](#Imagens-)
+ 📋 [Paste Bins](#Paste-bins-)
  📈 [Performance](#Performance-)
  🔌 [Plugins](#Plugins-)
  📚 [Referências](#Referências-)
@@ -135,7 +136,14 @@ http://kenwheeler.github.io/slick/
 ## Performance 📈 
 https://browserdiet.com/pt   
 
+## Paste Bins 📋
+https://pastebin.com/ -- Não recomendo mais, apesar de ser um dos melhores, está muito monetizado.    
+https://pastecry.pt/ -- Ótimo para compartilhar pastes com senha e tempo de expiração   
+https://privatebin.net/ -- ⚠️ [BETA](https://privatebin.info/) igual o de cima, features interessantes como Queimar após ler.       
+
 ## Mais listas ➕...
 https://github.com/santosluiz/Txt-da-Vida   
 https://github.com/leocavalcante/my-awesome-frontend   
-https://medium.com/brasil/trezentas-coisas-gratuitas-e-sensacionais-para-empreendedores-e-startups-4d054afd6395#.8adzvb2mh   
+https://medium.com/brasil/trezentas-coisas-gratuitas-e-sensacionais-para-empreendedores-e-startups-4d054afd6395#.8adzvb2mh  
+
+
