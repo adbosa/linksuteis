@@ -138,7 +138,7 @@ https://browserdiet.com/pt
 
 ## Paste Bins 📋
 https://pastebin.com/ -- Não recomendo mais, apesar de ser um dos melhores, está muito monetizado.    
-https://pastecry.pt/ -- Ótimo para compartilhar pastes com senha e tempo de expiração   
+https://pastecry.pt/ -- Ótimo para compartilhar pastes com senha e tempo de expiração, criptografia client-side.
 https://privatebin.net/ -- ⚠️ [BETA](https://privatebin.info/) igual o de cima, features interessantes como Queimar após ler.       
 
 ## Mais listas ➕...
