@@ -1,6 +1,15 @@
 # Links
 Alguns links úteis para Desenvolvedores Web
 
+
+## Triagem: 
+|Links para testar| Descrição |
+|------|------|
+| https://www.atlantic.net/ | hosting |
+| https://www.heroku.com/ | hosting |
+
+
+
 |Índice|
 |------|
  🎨 [Cores (Paleta de cores)](#Cores-) 
